@@ -1,4 +1,5 @@
-## Hi there I'm Sudhakar Reddy 👋
+## Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif<img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/3830f576-4cb5-4249-9985-c1ea2ffaf463" />
+ I'm Sudhakar Reddy 👋
 # 💫 About Me:
 Senior Platform Engineer with strong experience on AWS and Azure.<br>👷 I’m currently working on<br>CI/CD pipelines, Terraform automation, Kubernetes deployments, and monitoring platforms.<br>🤝 I’m looking to collaborate on<br>Practical DevOps projects, multi-cloud architecture, and infrastructure as code initiatives.<br>👌 I’m looking for help with<br>Advanced cloud certifications and modern platform engineering patterns.<br>🌱 I’m currently learning<br>Google Cloud technologies to build stronger multi-cloud skills.<br>⚡ Fun fact<br>🏏 Love playing cricket. 🎾 Enjoy watching tennis and major cricket matches.
 
