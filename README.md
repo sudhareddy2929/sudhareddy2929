@@ -4,7 +4,7 @@ Senior Platform Engineer with strong experience on AWS and Azure.<br>👷 I’m 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sudhareddy2929/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ssreddy2929/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhakar.somireddy@gmail.com) [![Email](https://img.shields.io/badge/Email-Personal-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhakar.somireddy@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sudhareddy2929/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ssreddy2929/)[![Email](https://img.shields.io/badge/Email-Personal-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhakar.somireddy@gmail.com)
 
 [![Email](https://img.shields.io/badge/Email-Work-green?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sudhakar.reddy@kainos.com)
 
